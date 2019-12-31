@@ -1,5 +1,4 @@
-# EEG_RNN_Conv_Learning
-Learning Representations From EEG With Deep Recurrent-Convolutional Neural Networks
+# Learning Representations From EEG With Deep Recurrent-Convolutional Neural Networks
 
 Keras Implementation of Bashivan, et al. "Learning Representations from EEG with Deep Recurrent-Convolutional Neural Networks." International conference on learning representations (2016).
 
